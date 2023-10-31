@@ -13,6 +13,7 @@ internal class Program
 {
     //Abolfazl Esmaeel Beigi
     //Tamrin 1 - Telegram Bot
+    //Bot Id: @Esbotifun_Bot
     private static void Main(string[] args)
     {
         var receiverOptions = new ReceiverOptions()
